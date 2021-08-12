@@ -1,0 +1,34 @@
+.body{
+ color:black;
+ margin: 10px 270px 10px 270px; 
+ background-color:lightgray;
+}
+
+.body div {
+    background-color: white; 
+
+}
+
+#section1{
+    height: 150px;
+
+
+}
+  .section{
+    margin: 25px
+  }
+
+.section div {
+    float: left;
+}
+p{
+    text-align: justify;
+}
+
+ul{
+    line-height: 20px;
+}
+
+#lastSection{
+    padding-bottom: 10px;
+}
